@@ -15,7 +15,7 @@ This repository hosts my portfolio site, which includes:
 - **CV** — link or embedded resume  
 - **Contact Me** — methods to connect
 
-You can view the live version here: [hassan9255.github.io/portfolio](https://hassan9255.github.io/portfolio/)
+You can view the live version here: [hassan9255.github.io/portfolio](https://hassan9255.github.io/Portfolio/)
 
 ## 🛠️ Technologies & Tools
 
